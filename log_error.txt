@@ -1,0 +1,3 @@
+PDF generado y almacenado en: /volume1/Compartida/RENMARINAS/DATOS/PREVISION_OLEAJE/Prevision_Oleaje_Sagunto_20261027.pdf
+Conectando con el servidor de correo...
+¡Correo enviado con éxito!
